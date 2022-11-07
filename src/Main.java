@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-    //Задание 1,2,3
+    // Задание 1,2,3
     var cat = 3.6;
     var dog = 8;
     var paper = 763789;
@@ -21,7 +21,7 @@ public class Main {
     System.out.println(dog);
     System.out.println(cat);
     System.out.println(paper);
-    //Задание 4,5
+    // Задание 4,5
     var fiend = 19;
     System.out.println(fiend);
     fiend = fiend * 2;
@@ -36,7 +36,7 @@ public class Main {
     System.out.println(frog);
     frog = frog + 4;
     System.out.println(frog);
-    //Задание 6,7
+    // Задание 6,7
     var firstFighterWeight = 78.2;
     var secondFighterWeight = 82.7;
     var totalFightersWeight = firstFighterWeight + secondFighterWeight;
@@ -47,7 +47,7 @@ public class Main {
     var fightersWeightDifferentRem = secondFighterWeight % firstFighterWeight;
     System.out.println("Разница веса первым способом - " + fightersWeightDifferentSub );
     System.out.println("Разница веса вторым способом - " + fightersWeightDifferentRem );
-    //Задание 8
+    // Задание 8
         var totalWorkHours = 640;
         var workingTimeOfOneEmployee = 8;
         var amountOfEmployee = totalWorkHours / workingTimeOfOneEmployee;
